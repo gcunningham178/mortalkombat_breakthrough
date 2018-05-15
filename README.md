@@ -1,2 +1,2 @@
 # mortalkombat_breakthrough
-This group project involved creating a Java-based game known as Breakthrough while implementing the theme of our choosing
+This mini group project involved creating a Java-based game known as Breakthrough. This is the first project of one of my Java programming classes
